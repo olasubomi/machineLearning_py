@@ -4,7 +4,7 @@ from openpyxl import load_workbook
 import numpy
 import matplotlib.pyplot as plt
 from sqlalchemy import create_engine
-from infocards.archive import Archive
+# from infocards.archive import Archive
 
 #Example 1 Raw Data conversion
 
