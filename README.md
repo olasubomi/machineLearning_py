@@ -1,6 +1,14 @@
 # machineLearning_py
 The git repository, machineLearning_py, version controls all updates to project development of uilding a ML web app with python and other tools.
 
+# Navigate to local directory
+pwd > to see current location path
+
+ls > to see list in current path
+
+cd > to change directory
+
+
 # How users can get started
 <Make sure to have the latest version>
 git pull 
@@ -17,8 +25,13 @@ pip freeze > requirements,txt
 
 git status
 
+# for Windows e.g.: git add.\stocks.py
+git add .\
+
+# for Mac e.g.: git add.stocks.py
 git add .
 
+# git commit -m "Add latest stocks.py file"
 git commit -m "comments on updates"
 
 git status # to confirm what is added to git finally
